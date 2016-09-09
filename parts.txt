@@ -1,0 +1,16 @@
+Parts lists
+
+Pressure sensor:
+FSR402 series - £18.75 ebay sensitive up to 10kg
+
+Amplification?
+
+Microcontroller
+
+Wireless access
+
+Logging
+
+Current Sensor:
+
+
